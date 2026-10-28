@@ -1,0 +1,6 @@
+# large or regenerable data (Mimic output is > 100 MB, the GitHub file limit)
+datasets/
+videos/
+logs/
+outputs/
+*.log
